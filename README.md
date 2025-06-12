@@ -41,7 +41,6 @@ Quantum Game is an interactive project that explores quantum mechanics concepts 
 
 - Launch the game using the instructions above.
 - Follow the on-screen prompts to play and explore quantum concepts.
-- (Add more specific gameplay instructions here.)
 
 ## Contribution
 
